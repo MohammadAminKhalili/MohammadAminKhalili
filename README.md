@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Amin Khalili
 
 I'm an **AI/ML Engineer** and **Data Scientist** based in **Leicester, UK**, with **5+ years of experience** developing and deploying scalable machine learning and deep learning solutions across computer vision, remote sensing, geospatial analytics, and production AI systems. I currently work on large-scale AI pipelines, cloud deployment, and production-ready ML workflows, with a strong focus on turning complex data into practical decision-support tools.  
-I hold a **PhD in Remote Sensing and Geosciences with a focus on Artificial Intelligence**. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+I hold a **PhD in Remote Sensing and Geosciences with a focus on Artificial Intelligence**.
 
 ---
 
@@ -18,7 +18,7 @@ My background combines:
 - **Scalable Data Pipelines**
 - **NLP / Retrieval-Augmented Generation (RAG)**
 
-I’m especially interested in building end-to-end AI systems that connect **data, models, infrastructure, and real-world impact**. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+I’m especially interested in building end-to-end AI systems that connect **data, models, infrastructure, and real-world impact**.
 
 ---
 
@@ -30,7 +30,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 - Building deep learning models with up to **92% classification accuracy**
 - Deploying AI solutions on **AWS** and **Azure**
 - Using **CI/CD** for reliable production delivery
-- Applying **NLP** and **RAG** to improve stakeholder prioritisation and reduce decision turnaround time :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+- Applying **NLP** and **RAG** to improve stakeholder prioritisation and reduce decision turnaround time
 
 ---
 
@@ -76,7 +76,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 - FME
 - SAR: SNAP, GMTSAR, ISCE, StaMPS, SARscape
 - LiDAR and point cloud processing
-- CloudCompare :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+- CloudCompare 
 
 ---
 
@@ -90,7 +90,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 - Built scalable multi-tile workflows using FastAPI
 - Developed attention-based deep learning models
 - Delivered cloud-based AI systems in production
-- Worked across the full lifecycle from design to deployment :contentReference[oaicite:8]{index=8} :contentReference[oaicite:9]{index=9}
+- Worked across the full lifecycle from design to deployment
 
 ### Remote Sensing and AI Specialist / Consultant  
 **SINTEMA Engineering SRL**  
@@ -98,7 +98,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 
 - Developed AI workflows for large-scale imagery and time-series datasets
 - Implemented CI/CD pipelines for automated ingestion and retraining
-- Supported infrastructure and hazard-related decision-making with technical solutions :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
+- Supported infrastructure and hazard-related decision-making with technical solutions
 
 ### Remote Sensing & AI Engineer  
 **Freelance**  
@@ -106,7 +106,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 
 - Delivered AI/ML solutions across financial, legal, and geospatial domains
 - Worked on EO, InSAR, and data-driven analytical pipelines
-- Managed multiple technical projects and delivered tailored solutions :contentReference[oaicite:12]{index=12} :contentReference[oaicite:13]{index=13}
+- Managed multiple technical projects and delivered tailored solutions
 
 ---
 
@@ -115,7 +115,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 - **PhD, Remote Sensing and Geosciences**  
   Focus: **Artificial Intelligence**
 - **MSc, Geodesy and Geomatics Engineering**
-- **BSc, Surveying Engineering** :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15}
+- **BSc, Surveying Engineering**
 
 ---
 
@@ -125,7 +125,7 @@ At **Bluesky International Ltd, a Woolpert Company** (as a KTP Associate with th
 - Presented at **14+ international conferences**
 - Lead Reviewer for **15+ journals**
 - Editorial Team Member – *Global Journal of Earth Science and Engineering*
-- Best PhD Student Paper Award – **EWSHM 2024** :contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}
+- Best PhD Student Paper Award – **EWSHM 2024**
 
 ---
 
@@ -148,7 +148,7 @@ I’m interested in:
 - **Email:** khalili.amin.m@gmail.com
 - **Academic Email:** mak67@leicester.ac.uk
 - **LinkedIn:** [Mohammad Amin Khalili](https://www.linkedin.com/in/mohammad-amin-khalili-geoscience/)
-- **Google Scholar:** _Add your link here_ :contentReference[oaicite:18]{index=18} :contentReference[oaicite:19]{index=19}
+- **Portfolio:** https://mohammadaminkhalili.github.io/
 
 ---
 

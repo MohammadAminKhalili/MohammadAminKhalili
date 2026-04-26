@@ -1,4 +1,5 @@
-# Hi, I'm Mohammad Amin Khalili
+# Dr. Mohammad Amin Khalili
+### AI/ML Engineer · Data Scientist · PhD
 
 I'm an **AI/ML Engineer** and **Data Scientist** based in **Leicester, UK**, with **5+ years of experience** developing and deploying scalable machine learning and deep learning solutions across computer vision, remote sensing, geospatial analytics, and production AI systems. I currently work on large-scale AI pipelines, cloud deployment, and production-ready ML workflows, with a strong focus on turning complex data into practical decision-support tools.  
 I hold a **PhD in Remote Sensing and Geosciences with a focus on Artificial Intelligence**.
